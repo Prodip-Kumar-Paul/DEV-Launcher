@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "DevConquerors Launcher",
+    "desxription": "Quick launch DevConquerors",
+    "version": "1.0.0",
+    "icons": { "128": "devcons-128.png"},
+    "browser_action": {
+        "default_icon": "devcon-19.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
