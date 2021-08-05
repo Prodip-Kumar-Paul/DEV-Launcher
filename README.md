@@ -1,2 +1,2 @@
 # DEV-Launcher
-an extension for DevConquerors
+web extension in chrome for DevConquerors
